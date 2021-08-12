@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="76104" started-at="2021-08-11T13:31:15Z" finished-at="2021-08-11T13:32:31Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="76104" started-at="2021-08-11T13:31:15Z" finished-at="2021-08-11T13:32:31Z">
+      <class name="org.Test.TestngData2">
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.Test.TestngData2@5e3a8624]" name="test1" duration-ms="21193" started-at="2021-08-11T13:31:17Z" data-provider="regression" finished-at="2021-08-11T13:31:39Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[MANOJ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[243424]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.Test.TestngData2@5e3a8624]" name="test1" duration-ms="22095" started-at="2021-08-11T13:31:39Z" data-provider="regression" finished-at="2021-08-11T13:32:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[PRIYA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[344556]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String, java.lang.String)[pri:0, instance:org.Test.TestngData2@5e3a8624]" name="test1" duration-ms="30690" started-at="2021-08-11T13:32:01Z" data-provider="regression" finished-at="2021-08-11T13:32:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[SIVA]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[223344]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- org.Test.TestngData2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
